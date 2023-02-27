@@ -1,0 +1,8 @@
+name: "sla"
+displayName: "This isn't a mod."
+author: Yourself
+description: "nao é um mod"
+version: "1.0"
+minGameVersion: "142"
+dependencies: [ ]
+hidden: false
